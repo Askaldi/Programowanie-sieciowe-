@@ -1,0 +1,10 @@
+C:\Users\Monika\Desktop\Monika Programowanie sieciowe\MoniBase64\MoniBase64\bin\Debug\MoniBase64.exe.config
+C:\Users\Monika\Desktop\Monika Programowanie sieciowe\MoniBase64\MoniBase64\bin\Debug\MoniBase64.exe
+C:\Users\Monika\Desktop\Monika Programowanie sieciowe\MoniBase64\MoniBase64\bin\Debug\MoniBase64.pdb
+C:\Users\Monika\Desktop\Monika Programowanie sieciowe\MoniBase64\MoniBase64\obj\Debug\MoniBase64.csprojResolveAssemblyReference.cache
+C:\Users\Monika\Desktop\Monika Programowanie sieciowe\MoniBase64\MoniBase64\obj\Debug\MoniBase64.Properties.Resources.resources
+C:\Users\Monika\Desktop\Monika Programowanie sieciowe\MoniBase64\MoniBase64\obj\Debug\MoniBase64.csproj.GenerateResource.Cache
+C:\Users\Monika\Desktop\Monika Programowanie sieciowe\MoniBase64\MoniBase64\obj\Debug\MoniBase64.csproj.CoreCompileInputs.cache
+C:\Users\Monika\Desktop\Monika Programowanie sieciowe\MoniBase64\MoniBase64\obj\Debug\MoniBase64.exe
+C:\Users\Monika\Desktop\Monika Programowanie sieciowe\MoniBase64\MoniBase64\obj\Debug\MoniBase64.pdb
+C:\Users\Monika\Desktop\Monika Programowanie sieciowe\MoniBase64\MoniBase64\obj\Debug\MoniBase64.Form1.resources
