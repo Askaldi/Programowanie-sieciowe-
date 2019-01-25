@@ -1,0 +1,7 @@
+C:\Users\Monika\Desktop\Monika Programowanie sieciowe\MonikaSmtpClient\MonikaSmtpClient\bin\Debug\MonikaSmtpClient.exe.config
+C:\Users\Monika\Desktop\Monika Programowanie sieciowe\MonikaSmtpClient\MonikaSmtpClient\bin\Debug\MonikaSmtpClient.exe
+C:\Users\Monika\Desktop\Monika Programowanie sieciowe\MonikaSmtpClient\MonikaSmtpClient\bin\Debug\MonikaSmtpClient.pdb
+C:\Users\Monika\Desktop\Monika Programowanie sieciowe\MonikaSmtpClient\MonikaSmtpClient\obj\Debug\MonikaSmtpClient.csprojResolveAssemblyReference.cache
+C:\Users\Monika\Desktop\Monika Programowanie sieciowe\MonikaSmtpClient\MonikaSmtpClient\obj\Debug\MonikaSmtpClient.csproj.CoreCompileInputs.cache
+C:\Users\Monika\Desktop\Monika Programowanie sieciowe\MonikaSmtpClient\MonikaSmtpClient\obj\Debug\MonikaSmtpClient.exe
+C:\Users\Monika\Desktop\Monika Programowanie sieciowe\MonikaSmtpClient\MonikaSmtpClient\obj\Debug\MonikaSmtpClient.pdb
