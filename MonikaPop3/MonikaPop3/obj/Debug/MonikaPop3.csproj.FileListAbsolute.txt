@@ -1,0 +1,10 @@
+C:\Users\Monika\Desktop\Monika Programowanie sieciowe\MonikaPop3\MonikaPop3\bin\Debug\MonikaPop3.exe.config
+C:\Users\Monika\Desktop\Monika Programowanie sieciowe\MonikaPop3\MonikaPop3\bin\Debug\MonikaPop3.exe
+C:\Users\Monika\Desktop\Monika Programowanie sieciowe\MonikaPop3\MonikaPop3\bin\Debug\MonikaPop3.pdb
+C:\Users\Monika\Desktop\Monika Programowanie sieciowe\MonikaPop3\MonikaPop3\obj\Debug\MonikaPop3.csprojResolveAssemblyReference.cache
+C:\Users\Monika\Desktop\Monika Programowanie sieciowe\MonikaPop3\MonikaPop3\obj\Debug\MonikaPop3.Form1.resources
+C:\Users\Monika\Desktop\Monika Programowanie sieciowe\MonikaPop3\MonikaPop3\obj\Debug\MonikaPop3.Properties.Resources.resources
+C:\Users\Monika\Desktop\Monika Programowanie sieciowe\MonikaPop3\MonikaPop3\obj\Debug\MonikaPop3.csproj.GenerateResource.Cache
+C:\Users\Monika\Desktop\Monika Programowanie sieciowe\MonikaPop3\MonikaPop3\obj\Debug\MonikaPop3.csproj.CoreCompileInputs.cache
+C:\Users\Monika\Desktop\Monika Programowanie sieciowe\MonikaPop3\MonikaPop3\obj\Debug\MonikaPop3.exe
+C:\Users\Monika\Desktop\Monika Programowanie sieciowe\MonikaPop3\MonikaPop3\obj\Debug\MonikaPop3.pdb
