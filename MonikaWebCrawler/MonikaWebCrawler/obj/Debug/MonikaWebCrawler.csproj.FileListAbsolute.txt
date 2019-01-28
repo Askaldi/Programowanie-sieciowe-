@@ -1,0 +1,7 @@
+C:\Users\Monika\Desktop\Monika Programowanie sieciowe\MonikaWebCrawler\MonikaWebCrawler\bin\Debug\MonikaWebCrawler.exe.config
+C:\Users\Monika\Desktop\Monika Programowanie sieciowe\MonikaWebCrawler\MonikaWebCrawler\bin\Debug\MonikaWebCrawler.exe
+C:\Users\Monika\Desktop\Monika Programowanie sieciowe\MonikaWebCrawler\MonikaWebCrawler\bin\Debug\MonikaWebCrawler.pdb
+C:\Users\Monika\Desktop\Monika Programowanie sieciowe\MonikaWebCrawler\MonikaWebCrawler\obj\Debug\MonikaWebCrawler.csprojResolveAssemblyReference.cache
+C:\Users\Monika\Desktop\Monika Programowanie sieciowe\MonikaWebCrawler\MonikaWebCrawler\obj\Debug\MonikaWebCrawler.csproj.CoreCompileInputs.cache
+C:\Users\Monika\Desktop\Monika Programowanie sieciowe\MonikaWebCrawler\MonikaWebCrawler\obj\Debug\MonikaWebCrawler.exe
+C:\Users\Monika\Desktop\Monika Programowanie sieciowe\MonikaWebCrawler\MonikaWebCrawler\obj\Debug\MonikaWebCrawler.pdb
